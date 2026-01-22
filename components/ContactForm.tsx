@@ -89,7 +89,7 @@ export default function ContactForm() {
         <h3 className="text-xl font-semibold text-[#691C1C] mb-4">¿Tienes dudas o prefieres atención directa?</h3>
         <p className="text-gray-700 mb-6">Contáctanos por WhatsApp y recibe asesoría inmediata de nuestro equipo.</p>
         <a
-          href="https://wa.me/5219999999999"
+          href="https://wa.me/525552523567"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center bg-[#25D366] hover:bg-[#1ebe5b] text-white font-semibold rounded-full px-6 py-3 text-lg transition duration-300"
@@ -103,3 +103,4 @@ export default function ContactForm() {
     </section>
   );
 }
+
